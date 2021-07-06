@@ -1,6 +1,6 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>Hola {},
 
 I'm an advanced filter bot with many capabilities!
 There is no practical limits for my filtering capacity :)
@@ -48,13 +48,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @DeepakV111</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @DeepakV111    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
